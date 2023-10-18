@@ -5,6 +5,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 import javax.persistence.*;
+import java.math.BigDecimal;
 
 @Entity
 @Data
@@ -19,6 +20,7 @@ public class FoodItem {
     private String itemDescription;
     private boolean isVeg;
     private Number price ;
+
     private Integer restaurantId ;
 
 
