@@ -11,7 +11,7 @@
 	<groupId>com.codedecode</groupId>
 	<artifactId>userinfo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>UserInformation</name>
 	<description>Demo project for Spring Boot User Details MS</description>
 	<properties>
